@@ -5,7 +5,7 @@ public class Projeto {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);{
 
-       String opcao;
+      int opcao;
 
        System.out.println("Escolha 1 numero");
         System.out.print(" 1: cadastrar ");
