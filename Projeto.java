@@ -1,7 +1,7 @@
-package app;
+package switch;
 import java.util.Scanner;
 
-public class Projeto {
+public class SwitchCases {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);{
 
