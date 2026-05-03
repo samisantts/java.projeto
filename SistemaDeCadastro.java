@@ -29,7 +29,7 @@ public class Cadastro {
          System.out.println ("Usuario registrado");
 
 
-
+            sc.close();
 
     }
     }
