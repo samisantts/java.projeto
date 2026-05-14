@@ -43,10 +43,9 @@ public class MassaCorporal {
 		        }
 		        
 		        return result;
+		   
+		   sc.close(); 
 		    }
-
-		 
-		 sc.close(); 
 		   
 	}
 
