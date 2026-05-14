@@ -1,4 +1,4 @@
-package Jonatas;
+package Metodos;
 import java.util.Scanner;
 public class MassaCorporal {
 
