@@ -1,62 +1,49 @@
-# ☕ java.projeto
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/seuusuario/java.projeto?style=for-the-badge)
+# ☕ JAVA.PROJETO
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="220px">
+
+### 🚀 Exercícios de Java para prática de lógica de programação
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Status](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellow?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/seuusuario/java.projeto?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/seuusuario/java.projeto?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/seuusuario/java.projeto?style=for-the-badge)
+
+</div>
 
 ---
 
-## 📚 Sobre o Projeto
+# 📚 Sobre o Projeto
 
-Projeto de estudos em **Java** contendo exercícios práticos utilizando:
+O **java.projeto** é um repositório criado para praticar conceitos fundamentais da linguagem Java através de exercícios simples e objetivos.
 
-- Condicionais
-- `switch case`
-- Métodos
-- Lógica de programação
+Aqui você encontrará exercícios envolvendo:
 
-Desenvolvido com foco em aprendizado e prática da linguagem Java.
-
----
-
-## 🚀 Tecnologias Utilizadas
-
-- ☕ Java
+- ✅ Condicionais
+- ✅ `switch case`
+- ✅ Métodos
+- ✅ Lógica de programação
+- ✅ Entrada de dados
+- ✅ Estruturas básicas do Java
 
 ---
 
-## 📖 Conteúdos Praticados
+# 🛠 Tecnologias Utilizadas
 
-✔ Estruturas condicionais (`if`, `else if`, `else`)  
-✔ Estrutura `switch case`  
-✔ Criação de métodos  
-✔ Entrada de dados  
-✔ Lógica de programação  
-✔ Exercícios práticos  
+<div align="center">
 
----
+| Tecnologia | Descrição |
+|------------|------------|
+| ☕ Java | Linguagem principal do projeto |
 
-## 🛠 Como Executar
-
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/seuusuario/java.projeto.git
-```
-
-2. Abra o projeto em uma IDE Java:
-
-- IntelliJ IDEA
-- Eclipse
-- VS Code
-
-3. Execute o arquivo `.java` desejado.
+</div>
 
 ---
 
-## 📁 Estrutura do Projeto
+# 📂 Estrutura do Projeto
 
 ```bash
 java.projeto/
@@ -67,22 +54,65 @@ java.projeto/
 └── exercicios/
 ```
 
----
 
-## 🎯 Objetivo
+# 🎯 Objetivo
 
-Este projeto foi criado para fortalecer conhecimentos em Java através de exercícios simples e práticos, ajudando no desenvolvimento da lógica de programação.
+Este projeto tem como objetivo:
 
----
-
-## 👨‍💻 Autor
-
-Feito por **Sami Santos**
-
-GitHub: [GitHub de Sami Santos](https://github.com/?utm_source=chatgpt.com)
+✔ Melhorar a lógica de programação 
+✔ Mostrar minha evolucacao como desenvolvedor 
+✔ Praticar Java diariamente  
+✔ Aprender estruturas fundamentais  
+✔ Evoluir no desenvolvimento backend  
 
 ---
 
-## ⭐ Status do Projeto
+# 💻 Exemplos de Conteúdo
 
-🚧 Em desenvolvimento 🚧
+```java
+switch(opcao){
+    case 1:
+        System.out.println("Opção 1");
+        break;
+
+    case 2:
+        System.out.println("Opção 2");
+        break;
+
+    default:
+        System.out.println("Opção inválida");
+}
+```
+
+---
+
+# 📈 Evolução do Projeto
+
+- [x] Condicionais
+- [x] Switch Case
+- [x] Métodos
+- [ ] Arrays
+- [ ] Orientação a Objetos
+- [ ] Tratamento de exceções
+
+---
+
+# 👨‍💻 Autor
+
+<div align="center">
+
+## Sami Santos
+
+🚀 Estudante de programação focado em Java Backend
+
+[GitHub](https://github.com/samisantts)
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Se gostou do projeto, deixe uma estrela!
+
+</div>
