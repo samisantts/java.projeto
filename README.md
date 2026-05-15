@@ -6,6 +6,13 @@
 
 ### 🚀 Exercícios de Java para prática de lógica de programação
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Status](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellow?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/seuusuario/java.projeto?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/seuusuario/java.projeto?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/seuusuario/java.projeto?style=for-the-badge)
+
+
 
 </div>
 
